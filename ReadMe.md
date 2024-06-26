@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CROWNZWEBDEV
-- 🌱 I’m currently working on API's and webdevelopments, also enjoy doing design work.
+- 🌱 I’m currently working on API's and webdevelopment, also enjoy doing design work!
 - 📫 How to reach me:
 - Discord: .crownz
 - Twitter: @crownzRL
